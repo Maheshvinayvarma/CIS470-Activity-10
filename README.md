@@ -25,6 +25,7 @@ You can refer to the steps from Activity 9 to build and deploy an AWS Lambda fun
 - Link to your AWS Lambda function [Link](https://gr3qspmu55.execute-api.us-east-2.amazonaws.com/default/activity10)
 - Screenshot of your Actions workflow Diagram (The three jobs should be in the order build, test, deploy).
 Submit all to  myCourses.
+<img src="./deploy_lambda_mahesh.png" width="300">
 
 
 ## Workflows Test Deployment
