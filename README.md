@@ -22,7 +22,7 @@ You can refer to the steps from Activity 9 to build and deploy an AWS Lambda fun
 
 ### Deliverable
 - Link to your GitHub repository (Make sure it is public)
-- Link to your AWS Lambda function
+- Link to your AWS Lambda function [Link](https://gr3qspmu55.execute-api.us-east-2.amazonaws.com/default/activity10)
 - Screenshot of your Actions workflow Diagram (The three jobs should be in the order build, test, deploy).
 Submit all to  myCourses.
 
